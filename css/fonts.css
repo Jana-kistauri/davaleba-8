@@ -13,49 +13,40 @@
 }
 
 
-
 /*Brandon Grotesque*/
 @font-face {
     font-family: 'Brandon Grotesque bold', sans-serif;
-    src: url('../fonts/brandon/BrandonGrotesque-Bold.eot');
-    src: url('../fonts/brandon/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/brandon/BrandonGrotesque-Bold.woff2') format('woff2'),
-        url('../fonts/brandon/BrandonGrotesque-Bold.woff') format('woff'),
-        url('../fonts/brandon/BrandonGrotesque-Bold.ttf') format('truetype'),
-        url('../fonts/brandon/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
+    src: url('../BrandonGrotesque/BrandonGrotesque-Bold.eot');
+    src: local('../BrandonGrotesque/Brandon Grotesque Bold'), local('BrandonGrotesque-Bold'),
+        url('../BrandonGrotesque/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../BrandonGrotesque/BrandonGrotesque-Bold.woff') format('woff'),
+        url('../BrandonGrotesque/BrandonGrotesque-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
-    font-family: 'Brandon Grotesque regular', sans-serif;
-    src: url('BrandonGrotesque-Regular.eot');
-    src: url('BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
-        url('BrandonGrotesque-Regular.woff2') format('woff2'),
-        url('BrandonGrotesque-Regular.woff') format('woff'),
-        url('BrandonGrotesque-Regular.ttf') format('truetype'),
-        url('BrandonGrotesque-Regular.svg#BrandonGrotesque-Regular') format('svg');
+   font-family: 'Brandon Grotesque regular', sans-serif;
+    src: url('../BrandonGrotesque/BrandonGrotesque-Regular.eot');
+    src: local('../BrandonGrotesque/Brandon Grotesque Regular'), local('BrandonGrotesque-Regular'),
+        url('../BrandonGrotesque/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../BrandonGrotesque/BrandonGrotesque-Regular.woff') format('woff'),
+        url('../BrandonGrotesque/BrandonGrotesque-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 
 /* Kazimir */
 @font-face {
     font-family: 'Kazimir-RegularItalic', sans-serif;
-    src: url('../kazimir-font-family/Kazimir-RegularItalic.eot');
-    src: url('../kazimir-font-family/Kazimir-RegularItalic.eot?#iefix') format('embedded-opentype'),
-        url('../kazimir-font-family/Kazimir-RegularItalic.woff2') format('woff2'),
-        url('../kazimir-font-family/Kazimir-RegularItalic.woff') format('woff'),
-        url('../kazimir-font-family/Kazimir-RegularItalic.ttf') format('truetype'),
-        url('../kazimir-font-family/Kazimir-RegularItalic.svg#Kazimir-RegularItalic') format('svg');
+    src: url('../kazimir-font-family/Kazimir-Italic.eot');
+    src: local('../kazimir-font-family/Kazimir Italic'), local('Kazimir-Italic'),
+        url('../kazimir-font-family/Kazimir-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../kazimir-font-family/Kazimir-Italic.woff2') format('woff2'),
+        url('../kazimir-font-family/Kazimir-Italic.woff') format('woff'),
+        url('../kazimir-font-family/Kazimir-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
-    font-display: swap;
 }
-
-
-
 
