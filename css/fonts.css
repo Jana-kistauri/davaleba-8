@@ -1,20 +1,22 @@
 /* Learning Curve */
 @font-face {
-    font-family: 'Learning Curve Dings';
-    src: url('../curve/LearningCurveDings.eot');
-    src: url('../curve/LearningCurveDings.eot?#iefix') format('embedded-opentype'),
-        url('../curve/LearningCurveDings.woff2') format('woff2'),
-        url('../curve/LearningCurveDings.woff') format('woff'),
-        url('../curve/LearningCurveDings.ttf') format('truetype'),
-        url('../curve/LearningCurveDings.svg#LearningCurveDings') format('svg');
-    font-weight: normal;
+    font-family: 'Learning Curve', sans-serif;
+    src: url('../curve/LearningCurve-Bold.eot');
+    src: url('../curve/LearningCurve-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../curve/LearningCurve-Bold.woff2') format('woff2'),
+        url('../curve/LearningCurve-Bold.woff') format('woff'),
+        url('../curve/LearningCurve-Bold.ttf') format('truetype'),
+        url('../curve/LearningCurve-Bold.svg#LearningCurve-Bold') format('svg');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
+
+
 /*Brandon Grotesque*/
 @font-face {
-    font-family: 'Brandon Grotesque';
+    font-family: 'Brandon Grotesque bold', sans-serif;
     src: url('../fonts/brandon/BrandonGrotesque-Bold.eot');
     src: url('../fonts/brandon/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
         url('../fonts/brandon/BrandonGrotesque-Bold.woff2') format('woff2'),
@@ -27,7 +29,7 @@
 }
 
 @font-face {
-    font-family: 'Brandon Grotesque';
+    font-family: 'Brandon Grotesque regular', sans-serif;
     src: url('BrandonGrotesque-Regular.eot');
     src: url('BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
         url('BrandonGrotesque-Regular.woff2') format('woff2'),
@@ -42,7 +44,7 @@
 
 /* Kazimir */
 @font-face {
-    font-family: 'Kazimir-RegularItalic';
+    font-family: 'Kazimir-RegularItalic', sans-serif;
     src: url('../kazimir-font-family/Kazimir-RegularItalic.eot');
     src: url('../kazimir-font-family/Kazimir-RegularItalic.eot?#iefix') format('embedded-opentype'),
         url('../kazimir-font-family/Kazimir-RegularItalic.woff2') format('woff2'),
