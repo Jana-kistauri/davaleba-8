@@ -1,12 +1,12 @@
 /* Learning Curve */
 @font-face {
     font-family: 'Learning Curve', sans-serif;
-    src: url('../curve/LearningCurve-Bold.eot');
-    src: url('../curve/LearningCurve-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../curve/LearningCurve-Bold.woff2') format('woff2'),
-        url('../curve/LearningCurve-Bold.woff') format('woff'),
-        url('../curve/LearningCurve-Bold.ttf') format('truetype'),
-        url('../curve/LearningCurve-Bold.svg#LearningCurve-Bold') format('svg');
+    src: url('../fonts/LearningCurve-Bold.eot');
+    src: url('../fonts/LearningCurve-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LearningCurve-Bold.woff2') format('woff2'),
+        url('../fonts/LearningCurve-Bold.woff') format('woff'),
+        url('../fonts/LearningCurve-Bold.ttf') format('truetype'),
+        url('../fonts/LearningCurve-Bold.svg#LearningCurve-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -16,22 +16,22 @@
 /*Brandon Grotesque*/
 @font-face {
     font-family: 'Brandon Grotesque bold', sans-serif;
-    src: url('../BrandonGrotesque/BrandonGrotesque-Bold.eot');
-    src: local('../BrandonGrotesque/Brandon Grotesque Bold'), local('BrandonGrotesque-Bold'),
-        url('../BrandonGrotesque/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../BrandonGrotesque/BrandonGrotesque-Bold.woff') format('woff'),
-        url('../BrandonGrotesque/BrandonGrotesque-Bold.ttf') format('truetype');
+    src: url('../fonts/BrandonGrotesque-Bold.eot');
+    src: local('../fonts/Brandon Grotesque Bold'), local('BrandonGrotesque-Bold'),
+        url('../fonts/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-Bold.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
    font-family: 'Brandon Grotesque regular', sans-serif;
-    src: url('../BrandonGrotesque/BrandonGrotesque-Regular.eot');
-    src: local('../BrandonGrotesque/Brandon Grotesque Regular'), local('BrandonGrotesque-Regular'),
-        url('../BrandonGrotesque/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../BrandonGrotesque/BrandonGrotesque-Regular.woff') format('woff'),
-        url('../BrandonGrotesque/BrandonGrotesque-Regular.ttf') format('truetype');
+    src: url('../fonts/BrandonGrotesque-Regular.eot');
+    src: local('../fontse/Brandon Grotesque Regular'), local('BrandonGrotesque-Regular'),
+        url('../fonts/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-Regular.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -40,12 +40,12 @@
 /* Kazimir */
 @font-face {
     font-family: 'Kazimir-RegularItalic', sans-serif;
-    src: url('../kazimir-font-family/Kazimir-Italic.eot');
-    src: local('../kazimir-font-family/Kazimir Italic'), local('Kazimir-Italic'),
-        url('../kazimir-font-family/Kazimir-Italic.eot?#iefix') format('embedded-opentype'),
-        url('../kazimir-font-family/Kazimir-Italic.woff2') format('woff2'),
-        url('../kazimir-font-family/Kazimir-Italic.woff') format('woff'),
-        url('../kazimir-font-family/Kazimir-Italic.ttf') format('truetype');
+    src: url('../fonts/Kazimir-Italic.eot');
+    src: local('../fonts/Kazimir Italic'), local('Kazimir-Italic'),
+        url('../fonts/Kazimir-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Italic.woff2') format('woff2'),
+        url('../fonts/Kazimir-Italic.woff') format('woff'),
+        url('../fonts/Kazimir-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
